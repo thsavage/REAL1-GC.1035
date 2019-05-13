@@ -1,2 +1,2 @@
 # REAL1-GC.1035
-This repository contains materials for the REAL1-GC.1035, Real Estate Finance.
+This repository contains materials for Real Estate Finance, REAL1-GC.1035.
