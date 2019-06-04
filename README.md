@@ -1,4 +1,4 @@
 # REAL1-GC.1035
 This repository contains materials for Real Estate Finance, REAL1-GC.1035.
 
-Please render through https://nbviewer.jupyter.org by copying and pasting the links for the notebooks.
+Please render through https://nbviewer.jupyter.org by copying and pasting the URL.
